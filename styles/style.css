@@ -1,0 +1,66 @@
+
+body {
+  padding: 35px;
+  text-align: center;
+  background-image: url("../images/Party-DJs.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+
+}
+
+
+
+.game-intro {
+  float: left;
+  padding: 10% 10%;
+}
+
+.game-intro p {
+  font-size: 18px;
+  font-family: "Verdana"
+}
+
+.logo-img {
+  width: 350px;
+}
+
+.arrows-img {
+  width: 150px;
+}
+
+body button {
+  cursor: pointer;
+  width: 250px;
+  height: 85px;
+  background: transparent;
+  padding-top: 5px;
+  display: unset;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;  
+  font-size: 30px;
+  font-style: oblique;
+  text-emphasis-color: white;
+  animation-delay: 5s;
+
+}
+
+
+
+#game-board {
+    float: left;
+    padding: 20px 0px;
+}
+
+#start-button {
+  color: white;
+  font-size: 50px;
+
+}
+
+#score {
+  text-align: right;
+ 
+}
