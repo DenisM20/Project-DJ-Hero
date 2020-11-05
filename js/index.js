@@ -18,19 +18,19 @@ scratch.volume = 0.5;
 
 
 const imgButton = new Image()
-imgButton.src = "../images/equalizer2.gif"
+imgButton.src = "./images/equalizer2.gif"
 
 const greenArrow = new Image ()
-greenArrow.src = "../images/arrows/left.png"
+greenArrow.src = "./images/arrows/left.png"
 
 const redArrow = new Image ()
-redArrow.src = "../images/arrows/up.png"
+redArrow.src = "./images/arrows/up.png"
 
 const yellowArrow = new Image ()
-yellowArrow.src = "../images/arrows/down.png"
+yellowArrow.src = "./images/arrows/down.png"
 
 const blueArrow = new Image ()
-blueArrow.src = "../images/arrows/right.png"
+blueArrow.src = "./images/arrows/right.png"
 
 
 class Component {
@@ -283,7 +283,7 @@ window.onload = () => {
   document.getElementById("start-button").onclick = () => {
     startGame();
     audioMusic.play();
-    document.getElementById("start-button").style.backgroundImage ="url('../images/equalizer2.gif"
+    document.getElementById("start-button").style.backgroundImage ="url('./images/equalizer2.gif"
   
   };
 
