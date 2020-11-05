@@ -2,17 +2,17 @@ const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
 const notesBackground = new Image();
-notesBackground.src = "../images/background.jpg";
+notesBackground.src = "./images/background.jpg";
 
 const hitNotes = new Image();
 hitNotes.src = "";
 
 const audioMusic = new Audio();
-audioMusic.src = "../sounds/FISHER BEST SONGS MIX 2019  025 SRK (1).mp3";
-audioMusic.volume = 0.5;
+audioMusic.src = "./sounds/FISHER BEST SONGS MIX 2019  025 SRK (1).mp3";
+audioMusic.volume = 0.05;
 
 const scratch = new Audio();
-scratch.src = "../sounds/scratch.mp3";
+scratch.src = "./sounds/scratch.mp3";
 scratch.volume = 0.5;
 
 
