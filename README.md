@@ -3,7 +3,7 @@
 
 DJ Hero is a game built in HTML, CSS, canvas and JavaScript.
 
-    Click HERE to play!
+    Click HERE <https://denism20.github.io/Project-DJ-Hero/>.to play!
 
 INSTALLATION
 
