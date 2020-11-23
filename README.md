@@ -21,7 +21,7 @@ DJ Hero is an interative game for adults and children, this awesome experience w
 GAME INSTRUCTIONS
 
     Press PLAY NOW to START 
-    Use LEFT / RIGHT / UP /DOWN arrows to HIT the notes as per they are coming in your direction.
+    Use LEFT / RIGHT / UP / DOWN arrows to HIT the notes as per they are coming in your direction.
     Make history, be a hero, do not reach below -200 points otherwise you will fail.
 
 CONTRIBUTION
